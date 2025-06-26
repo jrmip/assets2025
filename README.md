@@ -12,7 +12,7 @@
 | Internet Connection                | Stable connection required                                    |
 
 #### Installation guide
-1. Download the extension from the following link: [https://tinyurl.com/mryefpb8](https://tinyurl.com/mryefpb8)
+1. Download the extension from the repository.
 2. Type `about:addons` in Firefox's address bar and hit Enter.
 3. Click the gear icon ⚙️ at the top right of the Add-ons page.
 4. Select "Install Add-on From File…".
