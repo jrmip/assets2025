@@ -1,5 +1,7 @@
 # SystemX Usage Guide
 
+[Demonstration video](https://sdrive.cnrs.fr/s/sPJmor4KHaf7N8Z "Link to the demonstration video")
+
 ## Pre-requisites
 
 | Requirement            | Details                                         |
