@@ -2,7 +2,7 @@
 
 [Link to the video](https://sdrive.cnrs.fr/s/sPJmor4KHaf7N8Z "Link to the demonstration video")
 
-# TagThunder Usage Guide
+# SystemX Usage Guide
 
 #### Pre-requisites
 | Requirement                        | Details                                                                 |
@@ -25,8 +25,8 @@
 #### Usage guide
 - Navigate to any of the suggested websites (You may try other websites, but due to computational constraints and the size of the desired page, they might not run properly):
   - [ASSETS 2025 website](https://assets25.sigaccess.org/)
-  - [Mock News article](https://article-tagthunder.netlify.app/) (Best with 7 zones)
-  - [Mock News Website](https://news-tagthunder.netlify.app/)
+  - [Mock News article](https://article-systemx.netlify.app/) (Best with 7 zones)
+  - [Mock News Website](https://news-systemx.netlify.app/)
 - Click on the extension, and verify the server status to be "available". If not, try again at a later time.
 - [Optional] Configure the number of zones, keywords, and ngram size.
 - Click on "Start" and wait. This might take up to a minute or two.
@@ -38,7 +38,7 @@
 
 
 #### Important Notes
-- We intentionally limit the TagThunder tree to a depth of 1 due to computational constraints associated with publicly sharing our platform with multiple users.
+- We intentionally limit the zones tree to a depth of 1 due to computational constraints associated with publicly sharing our platform with multiple users.
 - For now, we only support vocalizing **English pages**. Other language will still be vocalized, but with an English pronounciation.
 - Make sure to choosen a sufficient number of zones (5-8 usually works best) and that they zones are **distinct**. If the zones aren't distinct, reload the page and re-run the pipeline with a higher number of zones.
 ![Zones Illustration](./img/zones.png)
