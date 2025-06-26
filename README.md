@@ -14,12 +14,18 @@
 
 ## Installation Guide
 
-~~1. Download the extension from:~~
+1. ~~Download the extension from:~~
+
 2. Open Firefox and type `about:addons` in the address bar.
+
 3. Click the gear icon ⚙ at the top right of the Add-ons page.
+
 4. Select **"Install Add-on From File…"**.
+
 5. Browse and select the `.xpi` file, then click **Open**.
+
 6. Confirm the installation when prompted by Firefox — click **“Add”**.
+
 7. *(Optional)* Pin the extension to the taskbar.
 
 ---
