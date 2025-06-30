@@ -1,6 +1,6 @@
 # Demonstration video
 
-Download `demo_video.mp4` from the repo.
+[Link to the video](https://sdrive.cnrs.fr/s/sPJmor4KHaf7N8Z "Link to the demonstration video")
 
 # SystemX Usage Guide
 
