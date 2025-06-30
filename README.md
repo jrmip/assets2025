@@ -32,7 +32,7 @@
 - Click on "Start" and wait. This might take up to a minute or two.
 - Once the loading finishes, configure your skimming and scanning modes:
   - Skimming: Starts right after you turn on vocalization, gives you an overview of the webpage.
-  - Scanning: Allows you to navigate through the webpage and get vocal feedback of
+  - Scanning: Allows you to get vocal feedback of the webpage's content as you navigate through it according to the strategy selected.
 - Use the Keyboard to enable the vocalization: `Ctrl + Alt + J` for Windows, `Cmd + ⌥ + J` for Mac.
 - Press `Ctrl` (`Cmd` for Mac) and Left Click to enter a zone, and the same with Right Click to exit.
 
@@ -40,7 +40,7 @@
 #### Important Notes
 - We intentionally limit the zones tree to a depth of 1 due to computational constraints associated with publicly sharing our platform with multiple users.
 - For now, we only support vocalizing **English pages**. Other language will still be vocalized, but with an English pronounciation.
-- Make sure to choosen a sufficient number of zones (5-8 usually works best) and that they zones are **distinct**. If the zones aren't distinct, reload the page and re-run the pipeline with a higher number of zones.
+- Make sure to  a sufficient number of zones (5-8 usually works best) and that they zones are **distinct**. If the zones aren't distinct, reload the page and re-run the pipeline with a higher number of zones.
 ![Zones Illustration](./img/zones.png)
 
 - For scanning strategies "Target Only", "Origin-Target" and "Proximity", the distance and direction are calculated depending on the cursor position and the zone's center, not the zone's edges. So when you navigate, particularly for "Origin-Target" and "Target-only", make sure you're within a 30° movement angle of the zone's center.
